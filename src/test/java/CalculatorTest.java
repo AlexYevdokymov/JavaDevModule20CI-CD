@@ -15,7 +15,6 @@ public class CalculatorTest {
         int actual = calc.sum(1);
         //Then
         int expected = 1;
-        failing test)
         Assertions.assertEquals(expected,actual);
     }
     @Test
